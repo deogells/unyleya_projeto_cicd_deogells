@@ -1,11 +1,9 @@
-#terraform
-.terraform
-
+>>>>>>> 04b47bf900452095c6fdbfae563ff4a8e53ca2a3
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+terraform-provider-azurerm_v3.0.0_x5.exe
 # C extensions
 *.so
 
