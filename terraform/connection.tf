@@ -19,7 +19,3 @@ provider "azurerm" {
   tenant_id       = var.tenant_id
 }
 
-resource "azurerm_resource_group" "unyleya" {
-  name     = "unyleya"
-  location = "brazilsouth"
-}

@@ -1,3 +1,8 @@
+resource "azurerm_resource_group" "unyleya" {
+  name     = "unyleya"
+  location = "brazilsouth"
+}
+
 resource "azurerm_kubernetes_cluster" "unyleya" {
   name                = "aksunyleya1"
   location            = azurerm_resource_group.unyleya.location

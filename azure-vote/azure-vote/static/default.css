@@ -3,7 +3,7 @@ body {
 }
 
 div#container {
-    margin-top:5%;
+    margin-top:6%;
 }
 
 div#space {
@@ -21,7 +21,7 @@ div#logo {
     text-align: center;
     font-size:30px;
     font-family:Helvetica;  
-    /*border-bottom: 1px solid black;*/   
+    /*border-bottom: 1px solid blac"k;*/   
 }
 
 div#form {
